@@ -1,0 +1,20 @@
+Uncertainty replicates the Heisenberg Uncertainty Principle using matplotlib.
+
+
+~~ A non-physicist's take one the uncertainty principal~~
+(Probably wrong but close enough)
+
+The values of position and velocity are undefined for all quantum particles.
+
+All particles are shown as waves. Peaks represent position and the distance between peaks represents velocity.
+
+A single wave (a sine wave) has clearly defined peak distance, but has positions defined for all of space.
+
+Adding multiple waves causes some peaks to be higher, revealing more information about position, but removing information about velocity.
+
+As an infinite amount of waves are added together, position becomes very clear but all information about momentum is destroyed.
+
+Thus, as more information is known about one, the less is known about the other.
+
+
+
